@@ -1,0 +1,3 @@
+[submodule "pyAISm"]
+	path = pyAISm
+	url = https://github.com/pirpyn/pyAISm.git
