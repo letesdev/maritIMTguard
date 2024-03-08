@@ -1,0 +1,8 @@
+{'type': 1, 'repeat': 0, 'mmsi': 211506970, 'status': 'Under way using engine', 'turn': 'N/A', 'speed': '0.0', 'accuracy': '1', 'lon': 0.12568666666666667, 'lat': 49.48391, 'course': '102.7°', 'heading': 'N/A', 'second': 19, 'maneuver': 1, 'raim': '1', 'radio': 49228}
+####################
+{'type': 2, 'repeat': 0, 'mmsi': 246359000, 'status': 'Under way using engine', 'turn': 'N/A', 'speed': '0.0', 'accuracy': '0', 'lon': 1.40855, 'lat': 51.41596666666667, 'course': '267.2°', 'heading': '059.0°', 'second': 33, 'maneuver': 0, 'raim': '0', 'radio': 81948}
+####################
+{'type': 3, 'repeat': 0, 'mmsi': 205194324, 'status': 'Moored', 'turn': 'N/A', 'speed': '0.0', 'accuracy': '0', 'lon': 2.7617583333333333, 'lat': 51.13776166666667, 'course': '000.0°', 'heading': 'N/A', 'second': 19, 'maneuver': 0, 'raim': '0', 'radio': 83706}
+####################
+{'type': 5, 'repeat': 0, 'mmsi': 227270000, 'ais_version': 2, 'imo': 7700013, 'callsign': 'FPCS', 'shipname': 'F/V THALIA', 'shiptype': 'Fishing', 'to_bow': 9, 'to_stern': 16, 'to_port': 2, 'to_starboard': 5, 'epfd': 'Undefined', 'month': 8, 'day': 31, 'hour': 18, 'minute': 0, 'draught': 3.5, 'dte': 'Data terminal ready'}
+####################
