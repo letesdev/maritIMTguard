@@ -97,9 +97,10 @@ def first_function():
 
 ################################################################################
 ################################################################################
-# extract configuration for the software
-parametres = {}
-parametres = get_parameters()
-# launch the interface to interact with the user
-if parametres != {}:
-	first_function()
+if __name__ == '__main__':
+	# extract configuration for the software
+	parametres = {}
+	parametres = get_parameters()
+	# launch the interface to interact with the user
+	if parametres != {}:
+		first_function()
